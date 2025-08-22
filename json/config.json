@@ -1,11 +1,13 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
-  "support": null,
+  "id": "utmnhooti",
+  "name": "UnaTried might not have one of these installed",
+  "website": "https://unatried.com/projects/rooting",
+  "support": "https://github.com/UnaTried/Rooting/issues",
   "donate": null,
-  "submission": null,
-  "base_url": "https://example.com/",
-  "description": null,
+  "submission": "https://github.com/UnaTried/Rooting/discussions",
+  "cover": "https://raw.githubusercontent.com/UnaTried/Rooting/refs/heads/master/ModulesRepo/cover.webp",
+  "description": "A list of modules that UnaTried maybe uses on his Pixel 7a"
+  "base_url": "https://unatried.com/",
   "max_num": 2,
   "enable_log": true,
   "log_dir": "log"
